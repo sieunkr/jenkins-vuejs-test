@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Eddy.Kim App - 2'
+      msg: '도메인 판매합니다. sieunkr@gmail.com '
     }
   }
 }
