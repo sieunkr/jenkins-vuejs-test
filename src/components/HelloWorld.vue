@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '도메인 판매합니다. sieunkr@gmail.com '
+      msg: 'vuejs.co.kr 도메인 판매합니다. sieunkr@gmail.com '
     }
   }
 }
